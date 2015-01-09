@@ -1,6 +1,6 @@
 # HTML5 & CSS3 优质资源
 
->> 资源更新中...
+>> 资源持续更新中...
 
 ## HTML5 部分
 
@@ -33,8 +33,33 @@
 
 ### 工具
 
+* [CSS3Pie](http://css3pie.com/)（让IE6至IE8版本实现大多数的CSS3修饰特性，如圆角、阴影、渐变等）
+* [CSS3 Click Chart](http://css3clickchart.com/)（CSS3效果即时查看）
+* [CSS3 Button Maker](http://css-tricks.com/examples/ButtonMaker)（快速制作CSS3按钮效果）
+* [CSS3 Transforms](http://westciv.com/tools/transforms/index.html)（CSS3过渡效果代码生成工具）
+* [CSS Gradient Generator](http://www.css3factory.com/linear-gradients)（CSS渐变生成器）
+* [css3maker](http://www.css3maker.com/)（各种CSS3效果代码生成工具）
+* [CSS3 TextShadow](http://mothereffingtextshadow.com/)（CSS3文本阴影效果）
+* [css2stylus](http://css2stylus.com/)（将CSS代码反编译为Stylus代码）
+* [CSS3动画帧数计算器](http://tid.tenpay.com/labs/css3_keyframes_calculator.html)
+* [CSS格式化工具](https://github.com/twitter/recess)（适用于统一代码风格）
+* [TRIDIV](http://tridiv.com/)（这个工具很强大，暂时不会用）
+* [CSS Media Queries Test](http://mediaqueriestest.com/)（更适用于移动端）
+
 ### 效果库
 
+* Animate.css：[https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)
+* CSS3 UI Lib：[http://css3lib.alloyteam.com](http://css3lib.alloyteam.com/)
+* Hover.css：[http://ianlunn.github.io/Hover](http://ianlunn.github.io/Hover/)
+* SpinKit：[http://tobiasahlin.com/spinkit](http://tobiasahlin.com/spinkit/)
+* Magic Animations CSS3：[https://github.com/miniMAC/magic](https://github.com/miniMAC/magic) 
+
+### 预处理
+
+* LESS：[http://lesscss.org/](http://lesscss.org/)(官方英文)、[http://www.lesscss.net](http://www.lesscss.net/)（中文）
+* SASS：[http://www.sass-lang.com](http://www.sass-lang.com/)
+* Stylus：[https://github.com/learnboost/stylus](https://github.com/learnboost/stylus)（Source）、[http://learnboost.github.io/stylus](http://learnboost.github.io/stylus/)（Document）
+* DynCSS：[http://www.vittoriozaccaria.net/dyn-css](http://www.vittoriozaccaria.net/dyn-css/)
 
 ## 兼容性查询
 
