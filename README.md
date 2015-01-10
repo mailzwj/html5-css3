@@ -57,7 +57,9 @@
 
 * LESS：[http://lesscss.org/](http://lesscss.org/)(官方英文)、[http://www.lesscss.net](http://www.lesscss.net/)（中文）
 * SASS：[http://www.sass-lang.com](http://www.sass-lang.com/)
-* Stylus：[https://github.com/learnboost/stylus](https://github.com/learnboost/stylus)（Source）、[http://learnboost.github.io/stylus](http://learnboost.github.io/stylus/)（Document）
+* Stylus：
+	* [https://github.com/learnboost/stylus](https://github.com/learnboost/stylus)（Source）
+	* [http://learnboost.github.io/stylus](http://learnboost.github.io/stylus/)（Document）
 * DynCSS：[http://www.vittoriozaccaria.net/dyn-css](http://www.vittoriozaccaria.net/dyn-css/)
 
 ## 兼容性查询
