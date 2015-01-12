@@ -10,6 +10,9 @@
 
 ### 定位
 
+* [Using geolocation](https://developer.mozilla.org/zh-CN/docs/Web/API/Geolocation/Using_geolocation)
+* [Dive Into HTML5 - Geolocation](http://diveintohtml5.info/geolocation.html)
+
 ### File & FileReader Api
 
 * [Javascript文件操作](http://www.iunbug.com/?s=JavaScript%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C&x=0&y=0)
