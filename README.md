@@ -74,7 +74,7 @@
 ### 预处理
 
 * LESS：
-	* [http://lesscss.org/](http://lesscss.org/)(官方英文)
+	* [http://lesscss.org/](http://lesscss.org/)（官方英文）
 	* [http://www.lesscss.net](http://www.lesscss.net/)（中文）
 * SASS：[http://www.sass-lang.com](http://www.sass-lang.com/)
 * Stylus：
