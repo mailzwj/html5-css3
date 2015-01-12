@@ -14,6 +14,21 @@
 
 ### 网页绘图（canvas、svg）
 
+* Canvas
+	* Canvas API（入门）：[Javascript 标准参考教程](http://javascript.ruanyifeng.com/htmlapi/canvas.html)
+	* [Getting Started With The Canvas API](http://blog.teamtreehouse.com/getting-started-with-the-canvas-api)
+	* 丰富的Canvas资源：[Canvas（MDN）](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Canvas)
+
+* SVG
+	* [SVG（MDN）](https://developer.mozilla.org/zh-CN/docs/Web/SVG/)
+	* [SVG特征、支持以及一些实际使用问题](http://www.zhangxinxu.com/wordpress/2012/08/svg-feature-support-bugs/)
+	* [SVG的用法](http://www.webhek.com/svg/)
+	* [中级 SVG 动画](http://technet.microsoft.com/zh-cn/subscriptions/gg193985(v=vs.85).aspx)
+	* [SVG Developer Center](http://www.adobe.com/devnet/svg.html)
+
+* 其他
+	* [SVG 与 Canvas：如何选择](http://msdn.microsoft.com/zh-cn/library/gg193983)
+
 ### 多媒体（audio、video）
 
 * 视频（video）相关
