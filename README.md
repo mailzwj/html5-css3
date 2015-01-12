@@ -65,6 +65,7 @@
 ### 效果库
 
 * Animate.css：[https://github.com/daneden/animate.css](https://github.com/daneden/animate.css)
+* CFS.ANIMATE.CSS：[http://animate.coolfishstudio.com](http://animate.coolfishstudio.com/)
 * CSS3 UI Lib：[http://css3lib.alloyteam.com](http://css3lib.alloyteam.com/)
 * Hover.css：[http://ianlunn.github.io/Hover](http://ianlunn.github.io/Hover/)
 * SpinKit：[http://tobiasahlin.com/spinkit](http://tobiasahlin.com/spinkit/)
