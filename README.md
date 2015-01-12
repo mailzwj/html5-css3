@@ -12,6 +12,8 @@
 
 ### File & FileReader Api
 
+* [Javascript文件操作](http://www.iunbug.com/?s=JavaScript%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C&x=0&y=0)
+
 ### 网页绘图（canvas、svg）
 
 * Canvas
