@@ -4,9 +4,13 @@
 
 ## HTML5 部分
 
-### 新增标签
-
 ### 本地存储
+
+* [HTML5 本地存储](http://www.cnblogs.com/rainman/archive/2011/06/22/2086069.html)
+* [The past, present & future of local storage for web applications](http://diveintohtml5.info/storage.html)
+* [html5离线应用application cache](http://www.cnblogs.com/svage/archive/2011/11/24/2261365.html)
+* [Let’s take this offline](http://diveintohtml5.info/offline.html)
+* [使用应用缓存（MDN）](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Using_the_application_cache)
 
 ### 定位
 
